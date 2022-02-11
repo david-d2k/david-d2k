@@ -1,9 +1,9 @@
 # Hey 👋
 My name is David 🇧🇷
 
-I'm a Bioinformatics student 🧬
+I'm a nursing student 🧬
 
-I'm also interested in Cloud computing and Artificial intelligence
+I'm also interested in Bioinformatics,Artificial intelligence and Biopython
 
 I'm passionate about solving problems and learning. Always open to new
 challenges and ready to face changes.
